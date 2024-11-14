@@ -4,7 +4,7 @@
 configuracion_local.sh
 
 #ignorar carpeta o directorio
-
+archivos_privados/
 #ignorar archivos con extensiones de photoshop y gimp
 *.psd
 *.xcf
