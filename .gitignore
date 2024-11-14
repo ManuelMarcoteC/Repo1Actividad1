@@ -1,0 +1,15 @@
+
+# ignorar archivo ED/.gitignore ED/c ED/configuracion_local.shED/configuracion_local.sh
+
+configuracion_local.sh
+
+#ignorar carpeta o directorio
+
+#ignorar archivos con extensiones de photoshop y gimp
+*.psd
+*.xcf
+
+
+
+
+
