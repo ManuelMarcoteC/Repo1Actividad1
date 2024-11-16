@@ -1,0 +1,9 @@
+#ignorar archivo
+configuracion_local.sh
+
+#ignorar directorio
+archivos_personales/
+
+#ignorar formato
+*.xcf
+*.psd
